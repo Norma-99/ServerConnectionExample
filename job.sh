@@ -11,7 +11,7 @@ PYTHON="/scratch/nas/4/norma/venv/bin/python"
 SERVER_SYNC_FILE=".sync/server_ready.out"
 TARGET="datasets"
 
-# Lunch server on host node
+# Launch server on host node
 $PYTHON -m ppcnn --server &
 SERVER_PID="$!"
 
