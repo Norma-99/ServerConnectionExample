@@ -1,2 +1,4 @@
-# server_test_script
-Run a server from sert cluster
+# Server connection
+
+Simple client - server connection example from the Sert Cluster
+
